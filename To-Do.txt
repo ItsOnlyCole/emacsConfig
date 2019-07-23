@@ -1,28 +1,26 @@
 --------------------
 -      To-Do       -
 --------------------
-+! Theme
-+ C Syntax
-+ C++ Syntax
-+ Python Syntax
-+ Bash Syntax
-X! File-Tabs !!!(Add to only GUI still)
-+ Spacing/Tabs
-X Electric-Pair-Mode
-+! Window Move - Windmove
-+ Shell Popup
-X Zoom in/out
-X Nyan Cat
-+! Campfire
-+ Configure Home Screen
-X Line Numbers
-X Scroll Bars
-X IDO
-X Melpa
-O! Compton Blured Window Background
-O AutoComplete
-O! File Tree
-O Integrate Compilers
-O Web Dev Tools/Syntax
-O Java Syntax
-O Org mode
+1.! GuiOnly Check
+2. Restart-Emacs
+3. Shell-pop
+4. Cheatsheet
+5. Dashboard
+6. All the icons
+7. Smart Mode Line
+8.! Treemacs
+9. Multiple Cursors
+10. WindMove
+11. Origami
+12. Format-All-The-Code
+13. Company-Mode
+14. Flycheck
+15. Python Major Mode
+16. C-Lang Major Mode
+17. Java Major Mode
+18. WebDev Major Mode
+19. FirePlace
+20.! Fonts
+21.! Theming
+22.! Semi-Transparent Background Blured
+23. Org-Mode
