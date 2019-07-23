@@ -11,11 +11,11 @@
 X Electric-Pair-Mode
 +! Window Move - Windmove
 + Shell Popup
-+ Zoom in/out
+X Zoom in/out
 X Nyan Cat
 +! Campfire
-+ Line Numbers
-+ Scroll Bars
+X Line Numbers
+X Scroll Bars
 X IDO
 X Melpa
 O! Compton Blured Window Background
