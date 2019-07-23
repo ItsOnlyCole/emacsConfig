@@ -33,18 +33,6 @@
 ;;       Settings       ;;
 ;;----------------------;;
 
-;;---Nyan Mode Config---;;
-(if window-system (nyan-mode 1))
-
-;;---Electric-Pair---;;
-(defun electric-pair ()
- (interactive)
- (if (eolp) (let (parens-require-spaces) (insert-pair)) (self-insert-command 1)))
-
-;;---IDO---;;
-(require 'ido)
-(ido-mode t)
-
 ;;---Centaur Tabs---;;
 (require 'centaur-tabs)
 (if window-system (centaur-tabs-mode t))
@@ -55,6 +43,19 @@
 (setq centaur-tabs-set-bar 'left)
 (setq centaur-tabs-set-modified-marker t)
 ;;(setq centaur-tabs-height 32)
+
+;;---Electric-Pair---;;
+(defun electric-pair ()
+ (interactive)
+ (if (eolp) (let (parens-require-spaces) (insert-pair)) (self-insert-command 1)))
+
+;;---IDO---;;
+(require 'ido)
+(ido-mode t)
+
+;;---Nyan Mode Config---;;
+(if window-system (nyan-mode 1))
+
 
 ;;----------------------;;
 ;;        Custom        ;;
