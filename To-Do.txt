@@ -6,14 +6,17 @@
 + C++ Syntax
 + Python Syntax
 + Bash Syntax
-+! Tabs
++! File-Tabs
++ Spacing/Tabs
 + Electric-Pair-Mode
-+! Window Move
++! Window Move - Windmove
 + Shell Popup
 + Nyan Cat
 +! Campfire
 + Line Numbers
 + Scroll Bars
++ IDO
+? Melpa
 O AutoComplete
 O! File Tree
 O Integrate Compilers
