@@ -6,7 +6,7 @@
 + C++ Syntax
 + Python Syntax
 + Bash Syntax
-+! File-Tabs
+X! File-Tabs !!!(Add to only GUI still)
 + Spacing/Tabs
 X Electric-Pair-Mode
 +! Window Move - Windmove
@@ -14,6 +14,7 @@ X Electric-Pair-Mode
 X Zoom in/out
 X Nyan Cat
 +! Campfire
++ Configure Home Screen
 X Line Numbers
 X Scroll Bars
 X IDO
