@@ -11,12 +11,13 @@
 + Electric-Pair-Mode
 +! Window Move - Windmove
 + Shell Popup
-+ Nyan Cat
++ Zoom in/out
+X Nyan Cat
 +! Campfire
 + Line Numbers
 + Scroll Bars
 + IDO
-? Melpa
+X Melpa
 O AutoComplete
 O! File Tree
 O Integrate Compilers
