@@ -1,0 +1,22 @@
+--------------------
+-      To-Do       -
+--------------------
++! Theme
++ C Syntax
++ C++ Syntax
++ Python Syntax
++ Bash Syntax
++! Tabs
++ Electric-Pair-Mode
++! Window Move
++ Shell Popup
++ Nyan Cat
++! Campfire
++ Line Numbers
++ Scroll Bars
+O AutoComplete
+O! File Tree
+O Integrate Compilers
+O Web Dev Tools/Syntax
+O Java Syntax
+O Org mode
