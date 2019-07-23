@@ -3,7 +3,6 @@
 ;;          EmacsConfig         ;;
 ;;------------------------------;;
 
-
 (package-initialize)
 
 ;;Sets Up Melpa Package
@@ -35,7 +34,7 @@
 ;;----------------------;;
 
 ;;---Nyan Mode Config---;;
-(nyan-mode 1)
+(if window-system (nyan-mode 1))
 
 ;;---Electric-Pair---;;
 (defun electric-pair ()
@@ -47,14 +46,14 @@
 (ido-mode t)
 
 ;;---Centaur Tabs---;;
-;(require 'centaur-tabs)
-;(centaur-tabs-mode t)
-;(global-set-key (kbd "C-<left>") 'centaur-tabs-backward)
-;(global-set-key (kbd "C-<right>") 'centaur-tabs-forward)
-;(setq centaur-tabs-style "bar")
-;(setq centaur-tabs-set-icons t)
-;(setq centaur-tabs-set-bar 'left)
-;(setq centaur-tabs-set-modified-marker t)
+(require 'centaur-tabs)
+(if window-system (centaur-tabs-mode t))
+(global-set-key (kbd "C-<left>") 'centaur-tabs-backward)
+(global-set-key (kbd "C-<right>") 'centaur-tabs-forward)
+(setq centaur-tabs-style "bar")
+(setq centaur-tabs-set-icons t)
+(setq centaur-tabs-set-bar 'left)
+(setq centaur-tabs-set-modified-marker t)
 ;;(setq centaur-tabs-height 32)
 
 ;;----------------------;;

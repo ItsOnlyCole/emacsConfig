@@ -1,7 +1,7 @@
 --------------------
 -      To-Do       -
 --------------------
-1.! GuiOnly Check
+X1.! GuiOnly Check
 2. Restart-Emacs
 3. Shell-pop
 4. Cheatsheet
