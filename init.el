@@ -26,5 +26,19 @@
 
 
 
- ;;---Nyan Mode Config---;;
- (nyan-mode 1)
+;;----------------------;;
+;;    Custom Package    ;;
+;;       Settings       ;;
+;;----------------------;;
+
+;;---Nyan Mode Config---;;
+(nyan-mode 1)
+
+;;---Electric-Pair---;;
+(defun electric-pair ()
+ (interactive)
+ (if (eolp) (let (parens-require-spaces) (insert-pair)) (self-insert-command 1)))
+
+;;---IDO---;;
+(require 'ido)
+(ido-mode t)

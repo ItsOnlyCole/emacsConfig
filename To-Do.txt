@@ -8,7 +8,7 @@
 + Bash Syntax
 +! File-Tabs
 + Spacing/Tabs
-+ Electric-Pair-Mode
+X Electric-Pair-Mode
 +! Window Move - Windmove
 + Shell Popup
 + Zoom in/out
@@ -16,8 +16,9 @@ X Nyan Cat
 +! Campfire
 + Line Numbers
 + Scroll Bars
-+ IDO
+X IDO
 X Melpa
+O! Compton Blured Window Background
 O AutoComplete
 O! File Tree
 O Integrate Compilers
