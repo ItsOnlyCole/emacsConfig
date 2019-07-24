@@ -5,5 +5,15 @@ m-x restart-emacs
 Next Tab: C-<Right>
 Previous Tab: C-<Left>
 
+---Multiple Cursors---
+Add Cursor: C-S-<mouse-1>
+Mark Next Like This: C->
+Mark Previous Like This: C-<
+Mark All Like This: C-c C-<
+Mark Group of Lines: C-S-c C-S-c
+New Lines: C-j
+Unmark Lines: C-g
+
+
 ---Shell Pop---
 Open Shell: C-t

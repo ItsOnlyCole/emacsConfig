@@ -7,9 +7,9 @@ X3. Shell-pop
 4. Cheatsheet
 X5. Dashboard
 X6. All the icons
-7. Smart Mode Line
+X7. Smart Mode Line
 8.! Treemacs
-9. Multiple Cursors
+X9. Multiple Cursors
 10. WindMove
 11. Origami
 12. Format-All-The-Code
@@ -23,4 +23,4 @@ X6. All the icons
 20.! Fonts
 21.! Theming
 22.! Semi-Transparent Background Blured
-23. Org-Mode
+23.? Org-Mode
