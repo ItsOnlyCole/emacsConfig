@@ -3,7 +3,7 @@
 --------------------
 X1.! GuiOnly Check
 X2. Restart-Emacs
-3. Shell-pop
+X3. Shell-pop
 4. Cheatsheet
 5. Dashboard
 6. All the icons

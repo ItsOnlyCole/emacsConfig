@@ -18,7 +18,8 @@
  '(ansi-color-names-vector
    ["#2e3436" "#a40000" "#4e9a06" "#c4a000" "#204a87" "#5c3566" "#729fcf" "#eeeeec"])
  '(display-line-numbers t)
- '(package-selected-packages (quote (centaur-tabs nyan-mode))))
+ '(package-selected-packages (quote (shell-pop restart-emacs centaur-tabs nyan-mode)))
+ '(shell-pop-universal-key "C-t"))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
@@ -36,8 +37,7 @@
 ;;---Centaur Tabs---;;
 (require 'centaur-tabs)
 (if window-system (centaur-tabs-mode t))
-(global-set-key (kbd "C-<left>") 'centaur-tabs-backward)
-(global-set-key (kbd "C-<right>") 'centaur-tabs-forward)
+;;Keybinds are located in Custom Keybinds Section;;
 (setq centaur-tabs-style "bar")
 (setq centaur-tabs-set-icons t)
 (setq centaur-tabs-set-bar 'left)
@@ -64,3 +64,7 @@
 
 ;;---AutoIndent---;;
 (define-key global-map (kbd "RET") 'newline-and-indent)
+
+;;---Centaur Tabs---;;
+(global-set-key (kbd "C-<left>") 'centaur-tabs-backward)
+(global-set-key (kbd "C-<right>") 'centaur-tabs-forward)

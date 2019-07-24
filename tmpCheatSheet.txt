@@ -4,3 +4,6 @@ m-x restart-emacs
 ---Centaur Tabs---
 Next Tab: C-<Right>
 Previous Tab: C-<Left>
+
+---Shell Pop---
+Open Shell: C-t
