@@ -18,7 +18,9 @@
  '(ansi-color-names-vector
    ["#2e3436" "#a40000" "#4e9a06" "#c4a000" "#204a87" "#5c3566" "#729fcf" "#eeeeec"])
  '(display-line-numbers t)
- '(package-selected-packages (quote (shell-pop restart-emacs centaur-tabs nyan-mode)))
+ '(package-selected-packages
+   (quote
+    (dashboard all-the-icons page-break-lines shell-pop restart-emacs centaur-tabs nyan-mode)))
  '(shell-pop-universal-key "C-t"))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
@@ -34,6 +36,9 @@
 ;;       Settings       ;;
 ;;----------------------;;
 
+;;---All The Icons---;;
+(require 'all-the-icons)
+
 ;;---Centaur Tabs---;;
 (require 'centaur-tabs)
 (if window-system (centaur-tabs-mode t))
@@ -43,6 +48,19 @@
 (setq centaur-tabs-set-bar 'left)
 (setq centaur-tabs-set-modified-marker t)
 ;;(setq centaur-tabs-height 32)
+
+;;---Dashboard---;;
+;;To-DO: Configure Header and Footer;;
+(require 'dashboard)
+(dashboard-setup-startup-hook)
+(setq dashboard-banner-logo-title "Welcome to Emacs Dashboard")
+(setq dashboard-startup-banner 'official)
+(setq dashboard-center-content t)
+(setq dashboard-items '((bookmarks . 5)
+                        (recents   . 5)))
+(setq dashboard-set-heading-icons t)
+(setq dashboard-set-file-icons t)
+(setq dashboard-set-navigator t)
 
 ;;---Electric-Pair---;;
 (defun electric-pair ()
@@ -56,6 +74,8 @@
 ;;---Nyan Mode Config---;;
 (if window-system (nyan-mode 1))
 
+;;---Page Break Lines---;;
+(require 'page-break-lines)
 
 ;;----------------------;;
 ;;        Custom        ;;

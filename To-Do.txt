@@ -5,8 +5,8 @@ X1.! GuiOnly Check
 X2. Restart-Emacs
 X3. Shell-pop
 4. Cheatsheet
-5. Dashboard
-6. All the icons
+X5. Dashboard
+X6. All the icons
 7. Smart Mode Line
 8.! Treemacs
 9. Multiple Cursors
