@@ -1,6 +1,3 @@
----Restart-Emacs---
-m-x restart-emacs
-
 ---Centaur Tabs---
 Next Tab: C-<Right>
 Previous Tab: C-<Left>
@@ -14,6 +11,19 @@ Mark Group of Lines: C-S-c C-S-c
 New Lines: C-j
 Unmark Lines: C-g
 
+---Restart-Emacs---
+m-x restart-emacs
 
 ---Shell Pop---
 Open Shell: C-t
+
+---Window Split---
+Split Vertically: C-x 3
+Split Horizontally: C-x 2
+Show Only One Window: C-x 1
+
+---Windmove---
+Move to Left Window: C-c <Left>
+Move to Right Window: C-c <Right>
+Move to Above Window: C-c <Up>
+Move to Below Window: C-c <Down>

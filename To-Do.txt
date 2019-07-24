@@ -10,7 +10,7 @@ X6. All the icons
 X7. Smart Mode Line
 8.! Treemacs
 X9. Multiple Cursors
-10. WindMove
+X10. WindMove
 11. Origami
 12. Format-All-The-Code
 13. Company-Mode
