@@ -11,7 +11,7 @@ X7. Smart Mode Line
 8.! Treemacs
 X9. Multiple Cursors
 X10. WindMove
-11. Origami
+X11. Origami
 12. Format-All-The-Code
 13. Company-Mode
 14. Flycheck

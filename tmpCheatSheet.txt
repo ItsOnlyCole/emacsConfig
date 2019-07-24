@@ -11,6 +11,13 @@ Mark Group of Lines: C-S-c C-S-c
 New Lines: C-j
 Unmark Lines: C-g
 
+---Origami---
+Start Origami: M-x origami-mode
+Open Node: C-q
+Close Node: C-w
+Open Node & Child Nodes: C-S-q
+Close Node & Childe Nodes: C-S-w
+
 ---Restart-Emacs---
 m-x restart-emacs
 

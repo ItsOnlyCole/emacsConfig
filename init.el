@@ -23,7 +23,7 @@
  '(display-line-numbers t)
  '(package-selected-packages
    (quote
-    (multiple-cursors smart-mode-line-atom-one-dark-theme smart-mode-line dashboard all-the-icons page-break-lines shell-pop restart-emacs centaur-tabs nyan-mode)))
+    (origami multiple-cursors smart-mode-line-atom-one-dark-theme smart-mode-line dashboard all-the-icons page-break-lines shell-pop restart-emacs centaur-tabs nyan-mode)))
  '(shell-pop-universal-key "C-t"))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
@@ -81,6 +81,10 @@
 ;;---Nyan Mode Config---;;
 (if window-system (nyan-mode 1))
 
+;;---Origami---;;
+(require 'origami)
+;;Keybinds in Custom Keybinds;;
+
 ;;---Page Break Lines---;;
 (require 'page-break-lines)
 
@@ -107,6 +111,12 @@
 (global-set-key (kbd "C-c C-<") 'mc/mark-all-like-this)
 (global-set-key (kbd "C-S-c C-S-c") 'mc/edit-lines)
 (global-set-key (kbd "C-S-<mouse-1>") 'mc/add-cursor-on-click)
+
+;;---Origami---;;
+(global-set-key (kbd "C-q") 'origami-open-node)
+(global-set-key (kbd "C-w") 'origami-close-node)
+(global-set-key (kbd "C-S-q") 'origami-open-node-recursively)
+(global-set-key (kbd "C-S-q") 'origami-close-node-recursively)
 
 ;;---Windmove---;;
 (global-set-key (kbd "C-c <left>")  'windmove-left)
