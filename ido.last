@@ -1,0 +1,105 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/tmp/week02_code1/W2_CODE1/src/" . "Examples/")
+ ("/tmp/week02_code1/W2_CODE1/" . "src/")
+ ("/tmp/week02_code1/" . "W2_CODE1/")
+ ("/tmp/" . "week02_code1/")
+ ("/" . "tmp/")
+ ("/home/itsonlycole/.config/" . "qutebrowser/")
+ ("/home/itsonlycole/.local/share/" . "applications/")
+ ("/home/itsonlycole/.local/" . "share/")
+ ("/home/" . "itsonlycole/")
+ ("/home/itsonlycole/ProgrammingRepos/COP1220_IntroToC/Assignment1-JewlersCalculator/" . "jewlersCalculator/")
+ ("/home/itsonlycole/ProgrammingRepos/COP1220_IntroToC/" . "Assignment1-JewlersCalculator/")
+ ("/home/itsonlycole/ProgrammingRepos/" . "QB-ProfileManager/")
+ ("/home/itsonlycole/" . ".config/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/itsonlycole/.config/qutebrowser/"
+ "/home/itsonlycole/.scripts/"
+ "/tmp/week02_code1/W2_CODE1/"
+ "/tmp/week02_code1/W2_CODE1/src/Examples/"
+ "/home/itsonlycole/ProgrammingRepos/QB-ProfileManager/"
+ "/home/itsonlycole/.config/QB-ProfileManager/"
+ "/home/itsonlycole/.config/polybar/"
+ "/home/itsonlycole/.local/share/applications/"
+ "/home/itsonlycole/.emacs.d/"
+ "/home/itsonlycole/ProgrammingRepos/COP1220_IntroToC/Assignment1-JewlersCalculator/jewlersCalculator/"
+ "/home/itsonlycole/networkShare/"
+ "/home/itsonlycole/.layouts/"
+ "/home/itsonlycole/ProgrammingRepos/LastFM-NowPlaying/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "config.py"
+ "testDiscordMsg.py"
+ "afkWOW.py"
+ ".classpath"
+ "StringManipulation.java"
+ "Exp36_StringDemo07.java"
+ "Exp36_StringDemo.java"
+ "testRemove.sh"
+ "removeProfileFromXML.py"
+ "removeProfile.sh"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/itsonlycole/.config/qutebrowser/" (23916 41095 531919 546000) "config.py" "quickmarks" "config.py~" "../" "bookmarks/" "./" "qsettings/" "autoconfig.yml")
+
+ ("/home/itsonlycole/.config/" (23918 51348 415387 239000) "wal_steam/" "menus/" "knfsshare" "polybar/" "user-dirs.locale" "kdenlive-appimagerc" "carla/" "xarchiver/" "Thunar/" "qt5ct/" "pavucontrol.ini" "jack/" "wal/" "Atom/" "yay/" "discordptb/" "kdeglobals" "dwm/" "htop/" "QB-ProfileManager/" "manjaro-hello.json" "ardour5/" "lutris/" "remmina/" "dconf/" "../" "cava/" "gtk-3.0/" "libfm/" "qutebrowser-StreamColeHemp/" "Franz/" "pokemmo/" "cef_user_data/" "qutebrowser/" "galculator/" "qpdfview/" "GIMP/" "awesome/" "Google Play Music Desktop Player/" "unity3d/" "manjaro/" "user-dirs.dirs" "configstore/" "mimeapps.list" "Meltytech/" "volumeicon/" "./" "falkon/" "qalculate/" "Kvantum/" "Cadence/" "viewnior/" "libreoffice/" "obs-studio/" "pulse/" "discord/" "autostart/" "discordcanary/" "xfce4/" "neofetch/" "pcmanfm/" "qutebrowser-StreamGamePlayerCole/" "rofi/" "i3-scrot.conf" "gtk-2.0/" "QtProject.conf" "teamviewer/" "balena-etcher-electron/" "vlc/" "gconf/" "i3/" "falkTX/" "pamac/")
+
+ ("/home/itsonlycole/" (23918 34595 642022 941000) "old_GPUCache_000/" ".layouts/" ".profile" ".xsession-errors.old" "Templates/" "Downloads/" ".Xauthority" "WoWAddons/" ".python_history" "nano.save" ".mplayer/" ".Xresources~" ".bashrc" ".nx/" "Move to Drive/" ".eclipse/" ".Xclients" ".scripts/" ".cache/" ".local/" ".parsec/" "Public/" "profilePictures/" "Videos/" ".config/" ".vnc/" "Music/" ".gtk-bookmarks" ".gtkrc-2.0" ".dmrc" ".bash_logout" "../" "eclipse-workspace/" ".v8flags.7.0.276.38-node.19.58ebb4eb24af51eb493a88c6a04d2b4c.json" ".mozilla/" ".java/" "GPUCache/" ".fehbg" ".pulse/" ".w3m/" ".xinitrc" ".fusion/" ".swt/" "afkWoW/" ".minecraft/" "VideoDecodeStats/" ".Xresources" "ProgrammingRepos/" ".gitconfig" ".electron-gyp/" ".pokemmo/" ".nv/" ".atom/" ".steampath" ".audacity-data/" ".steam/" ".qt/" ".ssh/" ".gnupg/" "./" ".fonts/" ".xsession-errors" ".dotfilesgit/" ".bash_history" "ContentCreation/" ".wallpapers/" ".esd_auth" ".dotnet/" "networkShare/" "Desktop/" "Pictures/" ".dvdcss/" ".emacs.d/" ".installedSoftware~" ".tooling/" ".ICEauthority" ".asoundrc" ".pki/" ".installedSoftware" ".bash_profile" ".steampid" ".nuget/" ".bashrc~" ".wget-hsts" "Documents/" ".appimages/" ".dir_colors" ".mono/" ".thumbnails/" ".log/" "Games/")
+
+ ("/home/itsonlycole/.scripts/" (23916 42773 364007 106000) "testCheckPA.sh~" "loadEmacsStreamWS.sh~" "loadBrowserStreamWS.sh" "testDiscordMsg.py" "loadAtomStreamWS.sh~" "loadMediaWS.sh~" "loadBrowserStreamWS.sh~" "../" "loadEmacsStreamWS.sh" "loadHomeWS.sh~" "loadStream-ColeHemp.sh" "loadAtomStreamWS.sh" "configureMonitors.sh" "loadStream-GamePlayerCole.sh~" "afkWOW.py~" "loadStream-GamePlayerCole.sh" "loadHomeWS.sh" "./" "loadStream-ColeHemp.sh~" "#testCheckPA#" "afkWOW.py" "testDiscordMsg.py~" "convertForDavinciResolve.sh" "testCheckPA.sh" "loadMediaWS.sh")
+
+ ("/home/itsonlycole/.layouts/" (23906 55511 52688 86000) "Stream-Dashboard.json~" "workspaceMedia.json" "ColeHempStream-Browser.json" "ColeHempStream-Browser.json~" "../" "ColeHempStream-Atom.json~" "Stream-Dashboard.json" "Stream-MusicVOIPTIME.json" "workspaceHome.json" "ColeHempStream-Emacs.json~" "#workspaceHome.json#" "./" "workspaceMedia.json~" "Stream-OBSChat.json~" "ColeHempStream-Emacs.json" "Stream-OBSChat.json" "ColeHempStream-Atom.json" "workspaceHome.json~")
+
+ ("/home/itsonlycole/networkShare/" (23831 31620 267762 854000) "../" "./")
+
+ ("/home/itsonlycole/.emacs.d/" (23915 49316 9110 273000) "recentf~" "ido.last" "ExtensionsToInstall.txt" "../" ".emacs.d.SuperOld/" "init.el" "tmpCheatSheet.txt" "auto-save-list/" "%backup%~" "To-Do.txt" "snippets/" "./" "recentf" "ido.last~" "elpa/" ".git/")
+
+ ("/home/itsonlycole/.local/share/applications/" (23909 51189 200268 231000) "MONSTER HUNTER WORLD.desktop" "ISLANDERS.desktop" "wine-extension-wri.desktop" "wine-extension-url.desktop" "wine-extension-jpe.desktop" "Crash Bandicoot N. Sane Trilogy.desktop" "../" "wine-extension-ini.desktop" "wine-extension-htm.desktop" "wine-extension-msp.desktop" "wine-extension-pdf.desktop" "No Man's Sky.desktop" "kdenLive.desktop~" "wine-extension-hlp.desktop" "mimeinfo.cache" "./" "wine-extension-rtf.desktop" "wine-extension-xml.desktop" "kdenLive.desktop" "wine-extension-gif.desktop" "Starbound.desktop" "wine-extension-txt.desktop" "Tabletop Simulator.desktop" "wine-extension-jfif.desktop" "Golf It!.desktop" "Counter-Strike Global Offensive.desktop" "wine/" "wine-extension-png.desktop" "wine-extension-chm.desktop" "wine-extension-vbs.desktop" "discord-402572971681644545.desktop" "Age of Empires II HD Edition.desktop" "Stone Story RPG.desktop")
+
+ ("/tmp/week02_code1/W2_CODE1/src/Examples/" (23907 21286 0 0) "Exp36_StringDemo.java" "Exp36_StringDemo01.java" "Exp36_StringDemo02.java" "Exp36_StringDemo03.java" "Exp36_StringDemo04.java" "Exp36_StringDemo05.java" "Exp36_StringDemo06.java" "Exp36_StringDemo07.java" "StringManipulation.java" "../" "./")
+
+ ("/tmp/week02_code1/W2_CODE1/src/" (23907 13332 0 0) "Examples/" "Exp03_01/" "Exp03_02/" "../" "./")
+
+ ("/tmp/week02_code1/W2_CODE1/" (23906 54176 0 0) ".classpath" ".project" ".settings/" "bin/" "src/" "../" "./")
+
+ ("/tmp/week02_code1/" (23906 54176 0 0) ".metadata/" "W2_CODE1/" "../" "./")
+
+ ("/tmp/" (23909 61570 418656 563000) ".X11-unix/" ".ICE-unix/" ".XIM-unix/" ".font-unix/" ".Test-unix/" "systemd-private-945719eef6ab4024807c9b2c41d38958-systemd-timesyncd.service-W6CH4x/" "systemd-private-945719eef6ab4024807c9b2c41d38958-systemd-logind.service-CnSHYU/" "systemd-private-945719eef6ab4024807c9b2c41d38958-ModemManager.service-6wDTIi/" ".X0-lock" ".org.chromium.Chromium.LDNR5I/" "GPMDP Crashes/" ".org.chromium.Chromium.PkZ0NO" ".org.chromium.Chromium.FzwOyS" ".org.chromium.Chromium.nmdtuW" ".org.chromium.Chromium.1oItc5" ".esd-1000/" "pamac/" ".X1001-lock" "pulse-Zl1PUDWflkjy/" ".wine-1000/" "net-export/" "discord.sock" "Discord Crashes/" "timeshift/" "systemd-private-945719eef6ab4024807c9b2c41d38958-upower.service-KEhCVf/" "pamac-app-screenshots/" "teamviewerTARLibCheck/" "Temp-cdb57b7c-131e-4291-a748-3abe3a4dae37/" "Temp-726581cc-c878-4f86-ac94-80a54c2495cc/" "mozilla_itsonlycole0/" "week02_code1/" "../" "./")
+
+ ("/home/itsonlycole/ProgrammingRepos/QB-ProfileManager/" (23899 15930 326490 400000) "removeProfileFromXML.py" "removeProfileFromXML.py~" "addProfileToXML.py" "profiles.xml~" "test.xml" "addProfileToXML.py~" "sampleProfiles.xml" "testProfile/" "testCallPython.sh" "createShortcut.py" "testCallPython.sh~" "createShortcut.py~" "testArrays.sh" "testArrays.sh~" "removeProfile.sh" "removeProfile.sh~" "To-Do.txt" "To-Do.txt~" "createProfile.sh" "createProfile.sh~" "README.md" ".git/" "../" "./")
+
+ ("/home/itsonlycole/.config/polybar/" (23896 38028 2053 398000) "config" "config~" "../" "mpris.sh" "launch.sh~" "launch.sh" "./" "mpris.sh~")
+
+ ("/home/itsonlycole/.config/QB-ProfileManager/" (23899 14609 721263 721000) "../" "profiles.xml" "./" "profiles.xml~")
+
+ ("/home/itsonlycole/.config/i3/" (23862 17201 755426 576000) "config" "config~" "../" "config.save" "./" "config.save.1")
+
+ ("/home/itsonlycole/.local/share/" (23891 19260 806791 31000) "Trash/" "user-places.xbel" "qtposition-geoclue2" "gegl-0.4/" "NuGet/" "vulkan/" "gvfs-metadata/" "remmina/" "../" "kdenlive/" "Tabletop Simulator/" "applications/" "qutebrowser/" "qpdfview/" "fonts/" "Meltytech/" "osu/" "./" "gsettings-data-convert" "keyrings/" "DaVinciResolve/" "Steam/" "icons/" "aspyr-media/" "vlc/" "flatpak/" "osu.old/" "user-places.xbel.tbcache" "DigitalSuburban/" "recently-used.xbel" "mime/")
+
+ ("/home/itsonlycole/.local/" (23804 21710 91720 342000) "share/" "../" "./")
+
+ ("/home/itsonlycole/ProgrammingRepos/" (23871 38031 720429 0) "QB-ProfileManager/" "homepageAlt/" "Enigma-App/" "trains.c/" "archLinuxArm/" ".emacs.d/" "RPI3-LCD-Python-HelloWorld/" "archLinuxArmInstallScripts/" "r-dailyprogrammer/" "storeNameInCArray/" "COP2831FinalProject/" "CPP/" "saberLegion-ScoreCounter/" "hempProject1.zip" "COP2831/" "JACKsetup/" "Uhack2017/" "EvetHelp/" "COP2360-CSharp-Programming/" "BetterPretzel-NowPlaying/" "MountUserLibraryLinux/" "itsonlycole.dev/" "ObsToDavinciResolve/" "LastFM-NowPlaying/" "COP2654-SwiftProgramming/" ".Trash-1000/" "WorkFrom-AnIntroductionToDesignPatternsInCPPWithQT4/" "Scripts/" "COP1220_IntroToC/" "movescreen/" "../" "./")
+
+ ("/home/itsonlycole/ProgrammingRepos/LastFM-NowPlaying/" (23865 7081 796451 0) "LastFM-NowPlaying.py" "__pycache__/" "README.md" "LICENSE" "currentSong.txt" "#LastFM-NowPlaying.py#" ".git/" "../" "./")
+
+ ("/home/" (23804 21456 805658 691000) "../" "./" "itsonlycole/")
+
+ ("/home/itsonlycole/ProgrammingRepos/COP1220_IntroToC/Assignment1-JewlersCalculator/jewlersCalculator/" (23651 37883 264806 0) "jewlersCalculator.layout" "jewlersCalculator.depend" "bin/" "obj/" "main.c" "jewlersCalculator.cbp" "../" "./")
+
+ ("/home/itsonlycole/ProgrammingRepos/COP1220_IntroToC/Assignment1-JewlersCalculator/" (23651 37920 386596 400000) "jewlersCalculator.zip" "jewlersCalculator/" "../" "./")
+
+ ("/home/itsonlycole/ProgrammingRepos/COP1220_IntroToC/" (23700 36474 961440 200000) "Assignment2-SportsTournament/" "SportsTournamentHelp/" "Assignment1-JewlersCalculator/" "README.md" ".git/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
